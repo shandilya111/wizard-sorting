@@ -1,0 +1,41 @@
+body {
+  background-color: #222831;
+  text-align: center;
+  padding: 0;
+}
+
+h1 {
+  font-size: 400%;
+  font-family: 'Sacramento', cursive;
+  color: #ececec;
+  font-weight: 700px;
+  text-align: center;
+}
+
+h2 {
+  font-family: 'Cinzel', serif;
+  font-size: 300%;
+  color: #ececec;
+  font-weight: 700px;
+  text-align: center;
+}
+
+.container {
+  padding: 21% 10% 0 10%;
+  /* background-color: #30475E; */
+  margin: 0 auto;
+  height: 30rem;
+  background-image: url("images/hogwarts.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  box-sizing: content-box;
+}
+
+.apparate {
+  font-family: 'Dancing Script', cursive;
+  opacity: 0.5;
+}
+
+/* font-family: 'Dancing Script', cursive;
+font-family: 'Sacramento', cursive; */
